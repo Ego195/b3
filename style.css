@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(235, 234, 234);
+    background-color: rgb(226, 226, 231);
 }
 
 .IP1{
@@ -12,7 +12,8 @@ body{
 
 
 .D{
-    border-radius: 10px;
+
+    border-radius: 20px;
 }
 
 input{
