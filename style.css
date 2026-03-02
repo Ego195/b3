@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(235, 234, 234);
+}
+
+.IP1{
+    color:  #eb6b6b;
+    cursor: pointer;
+    font-family: verdana;
+
+}
+
+
+.D{
+    border-radius: 10px;
+}
+
+input{
+    transform: scale(2.5);
+    margin-right: 10px;
+}
